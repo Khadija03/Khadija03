@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on the [Design and development of an aid to decision-making platform for JIRA data](https://github.com/bahmed99/Platforme-de-gestion-des-tickets-jira.git)
 
-- 🌱 I’m currently learning **TensorFlow, Scala, Docker, Kubernetes**
+- 🌱 I’m currently learning **TensorFlow, Scala, Docker, Kubernetes, Kafka, Hadoop**
 
 - 💬 Ask me about **ReactJS, Node.js, Flask, Python**
 
