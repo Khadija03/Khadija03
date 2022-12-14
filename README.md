@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TensorFlow, Scala, Docker, Kubernetes, Kafka, Hadoop**
 
-- 💬 Ask me about **ReactJS, Node.js, Flask, Python**
+- 💬 Ask me about **Machine Learning, Flask, Python, ReactJS, OOP**
 
 - 📫 How to reach me **Khadijamalek.makhlouf@ensi-uma.tn**
 
